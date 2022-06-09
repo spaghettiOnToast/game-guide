@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'The Lords Guidebook!'
+sidebar_label: 'The Lords Guidebook'
 sidebar_position: 1
 ---
 
