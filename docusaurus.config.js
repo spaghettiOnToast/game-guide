@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon-book.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -57,10 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo-book.svg',
         },
         items: [
           {
