@@ -1,17 +1,16 @@
 ---
 sidebar_label: 'Lootverse Lords'
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 # Lootverse Lords
 
 ## The Distiller
-Requirements: Loot or Genesis Adventurers
+**Requirements**: Loot or Genesis Adventurers
 
-Coming soon
+**Coming soon**
 
 ## The Dungeon Lord
-Requirements: Crypts & Caverns
+**Requirements**: Crypts & Caverns
 
-Coming soon
-
+**Coming soon**
