@@ -65,9 +65,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'realm-lords',
+            docId: 'the-lords-guidebook',
             position: 'left',
-            label: 'Tutorial',
+            label: 'The Lords Guidebook',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
