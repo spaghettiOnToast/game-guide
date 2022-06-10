@@ -11,6 +11,8 @@ The Yielders hold $LORDS and/or Resources, and have two options to choose from t
 
 The $LORDS are offered to the Nexus and in return receive run-off from the network's overflow.
 
+![$LORDS Offering](/img/nexus-1.png)
+
 **How does it work?**
 
 Players will stake their $LORDS in the Nexus and be rewarded per block according to the previous 24hr trading period. Your reward is calculated according to your share of the over offerings.
@@ -18,6 +20,8 @@ Players will stake their $LORDS in the Nexus and be rewarded per block according
 ## 2. Liquidity Merchant (LP token staking)
 
 The Nexus likes to be fed a steady diet of Resource/$LORDS position tokens. In return, it rewards Liquidity Merchants with $LORDS.
+
+![$LORDS Offering](/img/nexus-2.png)
 
 **How does it work?**
 
