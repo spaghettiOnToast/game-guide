@@ -7,10 +7,14 @@ sidebar_position: 2
 
 To participate as a Realm Lord, you must own at least one Realm. 
 
-## The Farmer
+---
+
+## The Miner
 **Objective**: Farm resources and earn $LORDS with minimal time/effort
 
 **Rewards**: Resources, $LORDS
+
+![The Miner](/img/miner.png)
 
 The Farmer takes the strategy of the least amount of time and effort, but in doing so they miss out on their full harvesting and earning potential. 
 
@@ -22,10 +26,14 @@ They then have the option to hold said resources or trade them via the AMM for $
 
 For each Realm they have settled (staked), they also earn 25x $LORDS per day (subject to change as voted on by the DAO).
 
+---
+
 ## The Defender
 **Objective**: Defend their Realms resources
 
 **Rewards**: Up to 50% more Resources
+
+![The Defender](/img/defender.png)
 
 The Defender is determined to claim their entire harvest of Resources, no matter the cost. 
 
@@ -35,10 +43,14 @@ If done effectively, they will be able to claim up to 50% more Resources if thei
 
 The rarer the Resource the Realm produces, the higher chance the Realm will be targeted by other Realm Lords. 
 
-## The Raider
+---
+
+## The Attacker
 **Objective**: To pillage Resources from other Realms
 
 **Rewards**: Free Resources (minus cost of war)
+
+![The Attacker](/img/attacker.png)
 
 The Raider is an ambitious and aggressive player. They want more Resources than they are producing and they don’t want to buy them on the market. 
 
@@ -47,6 +59,8 @@ They will spend Resources on building their Attacking Armies, and the cunning Ra
 If the Raid is successful, the Raider will receive 25% (subject to change) of the Defenders Vault. 
 
 This strategy is not for the weak-hearted: Army Units killed in combat are gone forever. 
+
+---
 
 ## The Guild Master
 **Objective**: To make alliances 
