@@ -14,7 +14,7 @@ To participate as a Realm Lord, you must own at least one Realm.
 
 The Farmer takes the strategy of the least amount of time and effort, but in doing so they miss out on their full harvesting and earning potential. 
 
-They do not spend their farmed resources on buildings, attack or defence, and simply allow their raidable Vault to be an easy target. 
+They do not spend their farmed resources on buildings, attack or defence, and simply allow their raidable vault to be an easy target. 
 
 This means it is likely that they’ll lose 50% of their total resources, but they simply farm the resources that haven’t been pillaged.
 
