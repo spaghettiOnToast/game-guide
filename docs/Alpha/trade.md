@@ -7,7 +7,10 @@ sidebar_position: 4
 # Trade on The Resource Emporium (AMM)
 
 :::note
-Prerequisites: [Setup a StarkNet Wallet](./wallet.md), Settle your Realm(s)](./settle.md), Harvest Resources](./harvest.md)
+Prerequisites: 
+1. [Setup a StarkNet Wallet](./wallet.md)
+2. [Settle your Realm(s)](./settle.md)
+3. [Harvest Resources](./harvest.md)
 :::
 
 ## Selling on the AMM

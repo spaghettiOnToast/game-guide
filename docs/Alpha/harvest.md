@@ -5,11 +5,11 @@ sidebar_position: 3
 ---
 
 # Harvest Resources from your realm
-
+:::note
 Prerequisites:
 1. [Setup a Starknet Wallet](./wallet.md)
 2. [Settle your Realm(s)](./settle.md)
-
+:::
 ## Claiming bulk resources for all of your Realms
 
 1. Navigate to your Empire page

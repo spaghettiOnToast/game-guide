@@ -1,17 +1,21 @@
 ---
-sidebar_label: 'Settle Your Realm'
+sidebar_label: 'Settle Your Realms'
 sidebar_position: 2
 
 ---
 
-# Settle your Realm
+# Settle your Realms
 
 :::note
-
-Prerequisites: 1. [Setup a StarkNet Wallet](./wallet.md)
+Prerequisites: 
+1. [Setup a StarkNet Wallet](./wallet.md)
 :::
 
-1. Head to your Empire page
+#### To enter the game you must settle (aka stake) your Realm(s) into the contracts. 
+
+1. Head to your 'Empire' page
+
+![Empire tab](/img/alpha/empire.jpg)
 
 2. Approve all game contracts
 

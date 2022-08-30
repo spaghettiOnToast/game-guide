@@ -7,7 +7,10 @@ sidebar_position: 5
 # Build Farms/Fishing Villages, harvest $WHEAT/$FISH
 
 :::note
-Prerequisites: [Setup a StarkNet Wallet](./wallet.md), Settle your Realm(s)](./settle.md), Harvest Resources](./harvest.md) or Buy resources 
+Prerequisites: 
+1. [Setup a StarkNet Wallet](./wallet.md)
+2. [Settle your Realm(s)](./settle.md)
+3. [Harvest Resources](./harvest.md) or [Buy resources](trade.md) 
 :::
 
 1. Head to your 'Realms' page
