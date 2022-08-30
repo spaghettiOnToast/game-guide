@@ -4,15 +4,17 @@ sidebar_position: 6
 
 ---
 
-# Build Work Huts and increase resource output
+# Work Huts
 
 :::note
 Prerequisites:
 1. [Setup a Starknet Wallet](./wallet.md)
 2. [Settle your Realm(s)](./settle.md)
-3. [Harvest resources](./harvest.md)
-4. [Build a building](./build.md)
+3. [Harvest Resources](./harvest.md), [buy resources](./trade.md) or [pillage resources](./raid.md)
+4. [Food supplied to your workers](./food.md)
 :::
+
+#### Buildiung work huts will increase your resource output by 50 per hut. You must 
 
 1. Head to your ‘Realms’ page
 2. Click ‘Details’ of your chosen Realm
