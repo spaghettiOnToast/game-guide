@@ -9,6 +9,7 @@ sidebar_position: 2
 :::note
 Prerequisites: 
 1. [Setup a StarkNet Wallet](./wallet.md)
+2. [Get Goerli test ETH](eth.md)
 :::
 
 #### To enter the game you must settle (aka stake) your Realm(s) into the contracts. 
@@ -19,7 +20,7 @@ Prerequisites:
 
 2. Approve all game contracts
 
-![approve all game contracts](/img/alpha/approve.png)
+![approve all game contracts](/img/alpha/approve.jpg)
 
 3. Approve it in Argent
 
@@ -27,7 +28,7 @@ Prerequisites:
 
 4. Settle your Realms (you can settle multiple at once)
 
-![settle Realms](/img/alpha/settle-realms.png)
+![settle Realms](/img/alpha/settle-realms.jpg)
 
 ![settle Realms UI](/img/alpha/settle-realms-2.png)
 

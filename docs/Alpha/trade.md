@@ -9,8 +9,9 @@ sidebar_position: 4
 :::note
 Prerequisites: 
 1. [Setup a StarkNet Wallet](./wallet.md)
-2. [Settle your Realm(s)](./settle.md)
-3. [Harvest Resources](./harvest.md)
+2. [Get Goerli test ETH](eth.md)
+3. [Settle your Realm(s)](./settle.md)
+4. [Harvest Resources](./harvest.md)
 :::
 
 ## Selling on the AMM
