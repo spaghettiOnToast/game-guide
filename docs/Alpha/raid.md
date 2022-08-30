@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Raiding & Relics'
-sidebar_position: 7
+sidebar_position: 10
 
 ---
 
