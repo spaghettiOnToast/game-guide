@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Building Farms and Fishing Villages'
-sidebar_position: 5
+sidebar_position: 6
 
 ---
 
@@ -10,7 +10,7 @@ sidebar_position: 5
 Prerequisites: 
 1. [Setup a StarkNet Wallet](./wallet.md)
 2. [Settle your Realm(s)](./settle.md)
-3. [Harvest Resources](./harvest.md) or [Buy resources](trade.md) 
+3. [Harvest Resources](./harvest.md), [buy resources](./trade.md) or [pillage resources](./raid.md)
 :::
 
 1. Head to your 'Realms' page
