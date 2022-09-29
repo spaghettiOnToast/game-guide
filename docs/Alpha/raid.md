@@ -4,7 +4,7 @@ sidebar_position: 10
 
 ---
 
-# Raiding Realms for resources and relics
+# Raiding
 
 :::note
 Prerequisites: 
@@ -21,10 +21,14 @@ Prerequisites:
 - Settled (preselected)
 - Raidable (preselected)
 - Resources: filter for your desired resources
-3. Select ‘Details’ on your chosen Realm
-4. Navigate to the ‘Military’ tab
-5. Select the ‘Raidable’ button (this will show a countdown if it isn’t yet raidable)
-6. Click ‘Select Realm’ to choose the Realm you’d like to attack with
-7. Initiate the combat by clicking the ‘Pillage’ button
-8. Approve the Argent tx 
-9. Watch the battle report in real-time once the transaction is approved
+3. Select the globe icon (Atlas) on the card your chosen Realm
+4. Select the helmut icon (Armies) on the card of your chosen Realm
+5. Choose which of your attacking armies you would like to send here
+- Your armies will automatically be orders by the shortest travel time to the chosen Realm
+6. Once the displayed time of travel has passed, navigate to the Realm you travelled to and click on 'details'
+7. Navigate to the ‘Military’ tab
+8. Select the ‘Raidable’ button (this will show a countdown if it isn’t yet raidable)
+9. Click ‘Select Realm’ to choose your Realm that has travelled here
+10. Initiate the combat by clicking the ‘Pillage’ button
+11. Approve the Argent tx 
+12. Watch the battle report in real-time once the transaction is approved

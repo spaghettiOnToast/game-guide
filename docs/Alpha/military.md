@@ -4,7 +4,7 @@ sidebar_position: 7
 
 ---
 
-# Build military buildings and muster attacking/defending troops
+# Mustering armies
 
 :::note
 Prerequisites: 
@@ -14,12 +14,27 @@ Prerequisites:
 4. [Harvest Resources](./harvest.md), [buy resources](./trade.md) or [pillage resources](./raid.md)
 :::
 
+#### Military Buildings (skip if you already have military builings)
+
 1. Head to the ‘Realms’ page
 2. Click ‘Details’ of your chosen Realm
 3. Navigate to the ‘military’ tab
-4. Click ‘Build’ on the number of military buildings you want to build to unlock the relevant troops (skip if you already have military units)
-5. Click an empty slot on either the attacking or defending troops
-6. Add as many unlocked troops as you desire per tier (max 9/5/1 for tier 1/2/3)
-7. Click ‘Select Troops To Train’
-8. Sign the Decree
-9. Approve the Argent tx
+4. Click ‘Build’ on the number of military buildings you want to build to unlock the relevant troops
+5. Sign the Decree
+6. Approve the Argent tx
+
+#### Summoning Armies
+
+:::note
+Prerequisites: 
+The first army you muster will automatically be your defence and can't travel/raid. Any additional armies summoned will for travel and raiding.
+:::
+
+1. Head to the ‘Realms’ page
+2. Click ‘Details’ of your chosen Realm
+3. Navigate to the ‘military’ tab
+4. Click 'Summon New Army'
+5. Add up to 30 troops that have been unlocke from your military buildings
+6. Click 'Summon The Battalions' at the bottom of the page
+7. Sign the Decree
+8. Approve the Argent tx
