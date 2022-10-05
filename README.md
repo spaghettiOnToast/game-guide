@@ -10,9 +10,11 @@ All docs are written in markdown. You can find markdown explanation here. [Markd
 1. Fork repo
 2. Edit files locally
 3. Propose PR 
+4. If successful, the team will approve and merge changes
 
 
 #### On github
 1. Fork repo
 2. Edit .md files within github
 3. Propose PR
+4. If successful, the team will approve and merge changes
