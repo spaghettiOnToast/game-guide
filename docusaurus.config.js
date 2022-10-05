@@ -91,38 +91,35 @@ const config = {
       footer: {
         style: 'light',
         links: [
+
           {
-            title: 'Community',
+            title: 'COMMUNITY',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/RW86nkMb',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/lootrealms',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'MORE',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Atlas',
+                href: 'https://atlas.bibliothecadao.xyz/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/BibliothecaForAdventurers',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `cc0 | ${new Date().getFullYear()} | BibliothecaDAO`,
       },
       prism: {
         theme: lightCodeTheme,
