@@ -1,41 +1,18 @@
-# Website
+# The Lords Guidebook
+The Lords Guidebook is open source and we encourage Lords & Ladies to contribute and help us write each page to assist new players as they join the game.
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## Contributing 
+All docs are written in markdown. You can find markdown explanation here. [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
-### Installation
+### Getting started
 
-```
-$ yarn
-```
+#### On your machine
+1. Fork repo
+2. Edit files locally
+3. Propose PR 
 
-### Local Development
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+#### On github
+1. Fork repo
+2. Edit .md files within github
+3. Propose PR
