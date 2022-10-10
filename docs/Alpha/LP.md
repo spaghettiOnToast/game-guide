@@ -22,4 +22,4 @@ Prerequisites:
 3. Enter the amount of resources you want to pair
 4. Ensure you have enough $LORDS to pair the resources (displayed beside the resource field)
 5. Click 'Add Liquidity'
-6. Approve the Argent tx
+6. Approve the transaction

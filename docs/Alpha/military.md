@@ -21,7 +21,7 @@ Prerequisites:
 3. Navigate to the ‘military’ tab
 4. Click ‘Build’ on the number of military buildings you want to build to unlock the relevant troops
 5. Sign the Decree
-6. Approve the Argent tx
+6. Approve the transaction
 
 #### Summoning Armies
 
@@ -37,4 +37,4 @@ The first army you muster will automatically be your defence and can't travel/ra
 5. Add up to 30 troops that have been unlocke from your military buildings
 6. Click 'Summon The Battalions' at the bottom of the page
 7. Sign the Decree
-8. Approve the Argent tx
+8. Approve the transaction

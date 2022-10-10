@@ -30,5 +30,5 @@ Prerequisites:
 8. Select the ‘Raidable’ button (this will show a countdown if it isn’t yet raidable)
 9. Click ‘Select Realm’ to choose your Realm that has travelled here
 10. Initiate the combat by clicking the ‘Pillage’ button
-11. Approve the Argent tx 
+11. Approve the transaction 
 12. Watch the battle report in real-time once the transaction is approved

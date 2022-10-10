@@ -21,4 +21,4 @@ Prerequisites:
 3. Navigate to the ‘resources’ tab
 4. Choose the number of huts to build and click ‘Build’
 5. Sign the Decree
-6. Approve the Argent tx
+6. Approve the transaction

@@ -20,4 +20,4 @@ Prerequisites:
 2. Toggle the 'Nexus' tab
 3. Enter the amount of $LORDS you'd like to stake
 3. Select 'Stake in Nexus'
-4. Approve the Argent tx
+4. Approve the transaction
