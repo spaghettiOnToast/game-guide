@@ -17,20 +17,49 @@ Prerequisites:
 ## Selling on the AMM
 
 1. Head to your Iron Bank
+
+![Realms details](/img/alpha/iron-bank.png)
+
 2. Click ‘Add +’ on the resources you want to sell (you can sell multiple at once)
-3. Toggle button from ‘buy’ to ‘sell’
-4. Enter the amount you’d like to sell for each resource
-5. Click ‘Sell Resources
-6. Navigate to ‘Thee Royal Decree’ (top right button)
-7. Sign the Decree
-8. Approve tx on Argent
+
+![Add to sell](/img/alpha/bank-add.png)
+
+3. Toggle button from ‘buy’ to ‘sell’ and enter the amount you’d like to sell for each resource
+
+![Sell resources](/img/alpha/sell-resources.png)
+
+4. Click ‘Sell Resources'
+
+![Sell resources](/img/alpha/sell-resources-2.png)
+
+5. Navigate to ‘Thee Royal Decree’ (top right button) and sign the command
+
+![Sign command](/img/alpha/decree-sign.png)
+
+6. Approve tx on your StarkNet wallet
+
+![approve in wallet](/img/alpha/harvest-argent.png)
 
 ## Buying on the AMM
 
 1. Head to your Iron Bank
+
+![Realms details](/img/alpha/iron-bank.png)
+
 2. Click ‘Add +’ on the resources you want to buy (you can buy multiple at once)
-3. Enter the amount you’d like to buy for each resource (ensure you have enough $LORDS for the purchase)
-4. Click Buy Resources
+
+![Buy resources](/img/alpha/sell-resources.png)
+
+3. Enter the amount you’d like to buy for each resource (ensure you have enough $LORDS for the purchase)and click 'Buy Resources'
+
+![Buy resources](/img/alpha/buy-resources.png)
+
 5. Navigate to ‘Thee Royal Decree’ (top right button)
+
 6. Sign the Decree
-7. Approve tx on Argent
+
+![Sign command](/img/alpha/decree-sign.png)
+
+7. Approve tx on your StarkNet wallet
+
+![approve in wallet](/img/alpha/harvest-argent.png)
