@@ -16,19 +16,19 @@ Prerequisites:
 
 1. Head to your 'Empire' page
 
-![Empire tab](/img/alpha/empire.jpg)
+![Empire tab](/img/alpha/empire.png)
 
 2. Approve all game contracts
 
-![approve all game contracts](/img/alpha/approve.jpg)
+![approve all game contracts](/img/alpha/approve-contracts.png)
 
-3. Approve it in Argent
+3. Approve it in your StarkNet wallet
 
-![approve all game contracts in Argent](/img/alpha/approve-argent.png)
+![approve all game contracts](/img/alpha/approve-argent.png)
 
 4. Settle your Realms (you can settle multiple at once)
 
-![settle Realms](/img/alpha/settle-realms.jpg)
+![settle Realms](/img/alpha/settle-realms.png)
 
 ![settle Realms UI](/img/alpha/settle-realms-2.png)
 

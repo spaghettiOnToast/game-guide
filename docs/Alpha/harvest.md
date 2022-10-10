@@ -18,22 +18,27 @@ Prerequisites:
 
 1. Navigate to your 'Empire' page
 
-![Empire tab](/img/alpha/empire.jpg)
+![Empire tab](/img/alpha/empire.png)
 
 2. Ensure you have at least one day of resources to claim (up to 3 days)
-3. Click ‘Harvest All Resources’
 
-![harvest all](/img/alpha/harvest-all.jpg)
+3. Navigation to the 'Quick Actions' tab
 
-4. Navigate to ‘Thee Royal Decree’ (top right button)
+![Quick Actions tab](/img/alpha/quick-actions.png)
 
-![thee royal decree](/img/alpha/thee-royal-decree.jpg)
+4. Click ‘Harvest All Resources’
 
-5. Sign the Decree
+![harvest all](/img/alpha/harvest-all.png)
+
+5. Navigate to ‘Thee Royal Decree’ (top right button)
+
+![thee royal decree](/img/alpha/royal-decree.png)
+
+6. Sign the Decree
 
 ![sign decree](/img/alpha/sign-harvest.png)
 
-6. Approve tx on Argent
+7. Approve tx on your StarkNet wallet
 
 ![approve argent](/img/alpha/harvest-argent.png)
 
@@ -42,15 +47,19 @@ Prerequisites:
 
 1. Navigate to the ‘Realms’ tab
 
-![Realms tab](/img/alpha/realms-tab.jpg)
+![Realms tab](/img/alpha/realms-tab.png)
 
 2. Select ‘Your Realms’
 
-![Your Realms tab](/img/alpha/your-realms.jpg)
+![Your Realms tab](/img/alpha/your-realms.png)
 
-3. Click ‘Harvest Resources’ on the Realm you’d like to harvest
+3. Click 'Details' on your chosen Realm to harvest
 
-![Harvest resources](/img/alpha/harvest-resources.jpg)
+![Realms details](/img/alpha/realms-details.png)
+
+3. Navigate to the 'Resources' tab and click ‘Harvest Resources’
+
+![Harvest resources](/img/alpha/harvest-resources.png)
 
 4. Navigate to ‘Thee Royal Decree’ (top right button)
 
@@ -60,6 +69,6 @@ Prerequisites:
 
 ![sign decree](/img/alpha/sign-harvest-2.png)
 
-6. Approve tx on Argent
+6. Approve tx on your StarkNet wallet
 
 ![approve argent](/img/alpha/harvest-argent.png)

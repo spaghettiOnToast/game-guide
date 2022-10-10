@@ -17,7 +17,7 @@ Prerequisites:
 
 ![testnet eth faucet](/img/alpha/faucet.png)
 
-2. Enter the account address of your Argent Goerli Testnet wallet
+2. Enter the account address of your Argent/Braavos Goerli Testnet wallet
 
 ![Goerli address](/img/alpha/address.jpg)
 
