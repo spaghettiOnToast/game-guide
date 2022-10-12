@@ -17,8 +17,27 @@ Prerequisites:
 #### Buildiung work huts will increase your resource output by 50 per hut. You must 
 
 1. Head to your ‘Realms’ page
+
+![Realms tab](/img/alpha/Realms-tab.png)
+
 2. Click ‘Details’ of your chosen Realm
+
+![Your Realms](/img/alpha/your-realms.png)
+
 3. Navigate to the ‘resources’ tab
+
+![Realms details](/img/alpha/realms-details.png)
+
 4. Choose the number of huts to build and click ‘Build’
+
+![Build Work Huts](/img/alpha/work-build.png)
+
 5. Sign the Decree
-6. Approve the transaction
+
+![Sign the command](/img/alpha/work-sign.png)
+
+6. Approve the tx in your StarkNet wallet
+
+![Approve the tx](/img/alpha/work-approve.png)
+
+

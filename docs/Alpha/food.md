@@ -4,7 +4,7 @@ sidebar_position: 6
 
 ---
 
-# Build Farms/Fishing Villages, harvest $WHEAT/$FISH
+# Build Farms/Fishing Villages
 
 :::note
 Prerequisites: 
@@ -14,16 +14,95 @@ Prerequisites:
 :::
 
 1. Head to your 'Realms' page
-2. Navigate to the ‘Farming’ tab
-3. Build Farms and/or Fishing Villages (capped by Rivers/Harbors)
-4. Harvest a total of 6 times every 4 hours
-5. Claiming $WHEAT/$FISH
-- Click 'Export $Wheat/$Fish' which claims $WHEAT/$FISH into your Iron Bank - you can trade them or use them directly on a Realm as a food source under the ‘Farming’ tab
-6. Convert $Wheat/$Fish of any amount to supply your Realm with a food source
-7. Sign the Decree
-8. Approve tx on Argent
+
+![Realms tab](/img/alpha/Realms-tab.png)
+
+2. Click on 'Your Realms'
+
+![Your Realms](/img/alpha/your-realms.png)
+
+3. Select your chosen Realm and click 'Details'.
+
+![Realms details](/img/alpha/realms-details.png)
+
+4. Navigate to the ‘Farming’ tab
+
+![Farming tab](/img/alpha/farming-tab.png)
+
+5. Build Farms and/or Fishing Villages (capped by Rivers/Harbors)
+
+![Build Farms and/or Fishing Villages](/img/alpha/build-farms.png)
+
+6. Sign the command
+
+![Sign command](/img/alpha/food-sign.png)
+
+7. Approve the tx in your StarkNet wallet
+
+![Approve tx](/img/alpha/food-approve.png)
 
 :::note
 After 6 harvests/exports you must rebuild your Farms/Fishing Villages
 :::
+
+# Harvest $WHEAT/$FISH
+
+1. Head to your 'Realms' page
+
+![Realms tab](/img/alpha/Realms-tab.png)
+
+2. Click on 'Your Realms'
+
+![Your Realms](/img/alpha/your-realms.png)
+
+3. Select your chosen Realm and click 'Details'.
+
+![Realms details](/img/alpha/realms-details.png)
+
+4. Navigate to the ‘Farming’ tab
+
+![Farming tab](/img/alpha/farming-tab.png)
+
+5. Click 'Export' on the $WHEAT and/or $FISH you'd like to export (this will be sent to your Iron Bank)
+
+![Export food](/img/alpha/food-export.png)
+
+6. Sign the decree
+
+![Sign the decree](/img/alpha/food-sign-2.png)
+
+7. Approve the tx in your StarkNet wallet
+
+![Approve tx](/img/alpha/food-approve.png)
+
+# Converting $WHEAT/$FISH into food stores
+
+1. Head to your 'Realms' page
+
+![Realms tab](/img/alpha/Realms-tab.png)
+
+2. Click on 'Your Realms'
+
+![Your Realms](/img/alpha/your-realms.png)
+
+3. Select your chosen Realm and click 'Details'.
+
+![Realms details](/img/alpha/realms-details.png)
+
+4. Navigate to the ‘Farming’ tab
+
+![Farming tab](/img/alpha/farming-tab.png)
+
+5. Enter the amount of $WHEAT and/or $FISH you'd like to convert into food
+
+![Convert $WHeAT/$FISH](/img/alpha/food-convert.png)
+
+6. Sign the decree
+
+![Sign the decree](/img/alpha/food-sign-2.png)
+
+7. Approve the tx in your StarkNet wallet
+
+![Approve tx](/img/alpha/food-approve.png)
+
 
