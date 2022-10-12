@@ -74,6 +74,11 @@ Once the displayed time of travel has passed the army will arrive at the target 
 
 ![Initate the raid](/img/alpha/raid.png)
 
-11. Watch the battle report in real-time once the transaction is approved and receive 25% of the defending Realm's vault straight to your Iron Bank if you are successful
+11. Watch the battle report in real-time and wait for the result once the transaction is approved.
 
 ![Raid simulation](/img/alpha/raid-simulation.png)
+
+12. View the results of raid: the number of troops slayed, and the resources/relics you won (if you succeeded)
+
+![Raid results](/img/alpha/raid-results.png)
+
