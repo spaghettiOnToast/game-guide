@@ -34,5 +34,5 @@ sidebar_position: 1
 
 5. Select 'Testnet Goerli Alpha'
 
-![deploy Braavos Tesnet wallet](/img/alpha/Braavos-3.png)
+![deploy Braavos Tesnet wallet](/img/alpha/braavos-3.png)
 

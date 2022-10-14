@@ -18,7 +18,7 @@ Prerequisites:
 
 1. Head to the ‘Realms’ page
 
-![Realms tab](/img/alpha/Realms-tab.png)
+![Realms tab](/img/alpha/realms-tab.png)
 
 2. Click ‘Details’ of your chosen Realm
 
@@ -50,7 +50,7 @@ The first army you muster will automatically be your defence and can't travel/ra
 
 1. Head to the ‘Realms’ page
 
-![Realms tab](/img/alpha/Realms-tab.png)
+![Realms tab](/img/alpha/realms-tab.png)
 
 2. Click ‘Details’ of your chosen Realm
 

@@ -18,15 +18,19 @@ Prerequisites:
 
 1. Head to your ‘Realms’ page
 
-![Realms tab](/img/alpha/Realms-tab.png)
+![Realms tab](/img/alpha/realms-tab.png)
 
-2. Click ‘Details’ of your chosen Realm
+2. Click 'Your Realms'
 
 ![Your Realms](/img/alpha/your-realms.png)
 
-3. Navigate to the ‘resources’ tab
+2. Click ‘Details’ of your chosen Realm
 
 ![Realms details](/img/alpha/realms-details.png)
+
+3. Navigate to the ‘resources’ tab
+
+
 
 4. Choose the number of huts to build and click ‘Build’
 

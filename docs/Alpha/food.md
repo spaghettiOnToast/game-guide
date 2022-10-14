@@ -15,7 +15,7 @@ Prerequisites:
 
 1. Head to your 'Realms' page
 
-![Realms tab](/img/alpha/Realms-tab.png)
+![Realms tab](/img/alpha/realms-tab.png)
 
 2. Click on 'Your Realms'
 
@@ -49,7 +49,7 @@ After 6 harvests/exports you must rebuild your Farms/Fishing Villages
 
 1. Head to your 'Realms' page
 
-![Realms tab](/img/alpha/Realms-tab.png)
+![Realms tab](/img/alpha/realms-tab.png)
 
 2. Click on 'Your Realms'
 
@@ -79,7 +79,7 @@ After 6 harvests/exports you must rebuild your Farms/Fishing Villages
 
 1. Head to your 'Realms' page
 
-![Realms tab](/img/alpha/Realms-tab.png)
+![Realms tab](/img/alpha/realms-tab.png)
 
 2. Click on 'Your Realms'
 

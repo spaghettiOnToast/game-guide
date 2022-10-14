@@ -18,7 +18,7 @@ Prerequisites:
 
 1. Head to the ‘Realms’ page
 
-![Realms tab](/img/alpha/Realms-tab.png)
+![Realms tab](/img/alpha/realms-tab.png)
 
 2. Use the filters to select your target for the raid 
 - Settled (preselected)
