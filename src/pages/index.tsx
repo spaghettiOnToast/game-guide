@@ -10,9 +10,9 @@ import styles from "./index.module.css";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <div className="container py-20 text-left">
+    <div className="container py-20 text-center">
       <div className="mx-auto sm:w-1/2">
-        <img className="rounded-xl" src="/img/mobius.jpeg" alt="" />
+        <img className="rounded-xl" src="/img/lords-guidebook.jpg" alt="The Lords Guidebook" />
         <span className="italic"></span>
         <p className="pt-8 mx-auto sm:text-3xl">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
