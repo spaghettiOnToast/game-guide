@@ -14,7 +14,7 @@ Prerequisites:
 4. [Food supplied to your workers](./food.md)
 :::
 
-#### Buildiung work huts will increase your resource output by 50 per hut. You must 
+#### Building work huts will increase your resource output by 50 per hut.
 
 1. Head to your ‘Realms’ page
 
