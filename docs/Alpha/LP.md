@@ -26,7 +26,7 @@ Prerequisites:
 
 3. Click ‘Add +’ on the resource(s) you want to add liquidity to and enter the amount of resources you want to pair
 
-![Add resources and amount to pair](/img/alpha/lp-amount.png)
+![Add resources and amount to pair](/img/alpha/lp-amounts.png)
 
 4. Ensure you have enough $LORDS to pair the resources (displayed beside the resource field)
 
