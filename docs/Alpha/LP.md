@@ -30,7 +30,7 @@ Prerequisites:
 
 4. Ensure you have enough $LORDS to pair the resources (displayed beside the resource field)
 
-![Confirm enough $LORDS](/img/alpha/lp-lords.png)
+![Confirm enough $LORDS](/img/alpha/lp-lord.png)
 
 5. Click 'Add Liquidity'
 
