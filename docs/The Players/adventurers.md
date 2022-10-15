@@ -10,13 +10,13 @@ sidebar_position: 4
 
 **Rewards**: unique game items (tradable for $LORDS via the AMM)
 
-Adventurers are a free-to-play (marginal gas fee to mint and game-play txs) entry in the Settling game. There are no requirements to mint an adventurer - Realms/$LORDS are not required. 
+Adventurers are a free-to-play (marginal gas fee to mint and game-play txs) entry in ETERNUM. There are no requirements to mint an adventurer - Realms/$LORDS are not required. 
 
 Upon minting, Adventurers are soulbound to your wallet, meaning only the wallet owner can play with that Adventurer and they are not tradable. That being said, the unique items (in the form of ERC115) can be traded on the marketplace for $LORDS. 
 
 To mint an Adventurer:
 
-1. Connect your MM and ArgentX wallets
+1. Connect your MM and StarkNet wallets
 2. Customise your Adventurer’s gender and race (this can’t be changed)
 3. Mint your Adventurer (marginal gas fee in ETH)
 4. You now own an Adventurer that lives on your ArgentX wallet
